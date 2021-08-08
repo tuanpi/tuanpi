@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I'm [Phan Hữu Tuấn](https://phanhuutuan.com) 👋
 
-<!--
 **tuanpi/tuanpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanpi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanpi&layout=compact)
+
+
